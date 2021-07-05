@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jfLCD9oDgy9vGznwkXaU0TVZDpWfxIdxxf+WyL5XnwGjFGYg/AJB28pwuHxiS2+GDrqXZTluFnRzP7w64Z32Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amohawlk\\Downloads\\R2Boilerplate-master\\R2Boilerplate-master\\ExamplePlugin\\ExamplePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amohawlk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Amohawlk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
